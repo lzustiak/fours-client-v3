@@ -20,6 +20,7 @@
   },
   "dependencies": {
     "@solidjs/router": "^0.5.1",
+    "http-status-codes": "^2.2.0",
     "solid-js": "^1.5.1"
   }
 }
